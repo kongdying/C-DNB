@@ -20,7 +20,7 @@ Figure6A-B.R Code to replicate the plots in Figure 6A-B.
 
 Figure6C-F.R Code to replicate the plots in Figure 6C-F.
 
-Rev-DNB.py,Rev-DNB-filter.txt and Figure7.R Code to replicate the plots in Figure 7B-C.
+Rev-DNB.py,Rev-DNB-filter.sh and Figure7.R Code to replicate the plots in Figure 7B-C.
 
 ## Contact
 All comments, questions and suggestions:mengqyuan@fjmu.edu.cn

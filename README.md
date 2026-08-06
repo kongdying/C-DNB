@@ -9,11 +9,17 @@ The scRNA-seq data were obtained from https://doi.org/10.6084/m9.figshare.116108
 **Function of codes**
 
 Figure2.R Code to replicate the plots in Figure 2A-F and Figure S1.
+
 Figure3.R Code to replicate the plots in Figure 3A-H,G-M.
+
 Figure4.R Code to replicate the plots in Figure 4 and Figure S2-3.
+
 Figure5.R Code to replicate the plots in Figure 5 and Figure S4-8.
+
 Figure6A-B.R Code to replicate the plots in Figure 6A-B.
+
 Figure6C-F.R Code to replicate the plots in Figure 6C-F.
+
 Rev-DNB.py,Rev-DNB-filter.txt and Figure7.R Code to replicate the plots in Figure 7B-C.
 
 ## Contact
